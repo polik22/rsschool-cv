@@ -12,7 +12,7 @@ Employment: project work, full time
 **LinkedIn:** polina-kupr
 **GitHub:** polik22
 
-## Skills
+### Skills
 ***
 - HTML
 - CSS (Framework Bootstrap, Preprocessor SCSS, BEM methodology)
@@ -69,9 +69,6 @@ let menu = {
 - analysis and keeping up to date of regulated reporting;
 - writing and revising instructions for working in SAP HCM.
 
-***NSI department specialist:***
-- support of users in the direction of reference data, processing of requests to the Service Desk.
-
 #### CJSC "PF" SKB Kontur "
 
 ***Technical support specialist***
@@ -99,7 +96,7 @@ let menu = {
 - search, collection and processing of information, articles, news for the site;
 - work with databases: creation, maintenance, updating.
 
-## Languages
+### Languages
 ***
 - English (Intermediate)
 - Russian (Native)
