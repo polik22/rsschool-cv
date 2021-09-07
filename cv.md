@@ -78,7 +78,7 @@ let menu = {
 - receive and process customer phone calls;
 - accept and process customer requests received via e-mail and other text communication channels.
 
-#### Disigion Studio Modesco
+#### Design Studio Modesco
 
 ***SEO department specialist / Content manager***
 - work with semantic cores of sites;
