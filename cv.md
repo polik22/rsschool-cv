@@ -2,17 +2,63 @@
 
 Female, 31 years old, born January 11, 1990
 
-+7 (906) 4080411
-kuprpoly@gmail.com - preferred communication method
-
 ## _Junior Frontend developer_
 Programming, Development
-
 Employment: project work, full time
+### Contact Info
 
-### Work experience
+**Phone:** +7 (906) 4080411
+**E-mail:** kuprpoly@gmail.com
+**LinkedIn:** polina-kupr
+**GitHub:** polik22
 
-### LLC "Intelligent Systems"
+## Skills
+***
+- HTML
+- CSS (Framework Bootstrap, Preprocessor SCSS, BEM methodology)
+- JavaScript 
+- React JS, Redux (intermediate level knowledge).
+- Version control: Git (remote service GitHub)
+- Windows OS, Linux(Ubuntu)
+- Figma(for web development)
+- Editors: Sublime, Brackets, VSCode, PyCharm community.
+
+### Code examples
+***
+```
+function multiplyNumeric(object) {
+    for(key in object){
+        key *= key*2;
+    }
+}
+
+
+// до вызова функции
+let menu = {
+    width: 200,
+    height: 300,
+    title: "My menu"
+  };
+  
+  multiplyNumeric(menu);
+  
+  // после вызова функции
+  menu = {
+    width: 400,
+    height: 600,
+    title: "My menu"
+  };
+
+  console.log(menu.height)
+  console.log(menu.width)
+  console.log(menu.title)
+```
+
+
+
+### Experience
+***
+#### LLC "Intelligent Systems"
 
 ***HR and Payroll Solutions Specialist (SAP)***
 - error analysis using SQL queries;
@@ -26,7 +72,7 @@ Employment: project work, full time
 ***NSI department specialist:***
 - support of users in the direction of reference data, processing of requests to the Service Desk.
 
-### CJSC "PF" SKB Kontur "
+#### CJSC "PF" SKB Kontur "
 
 ***Technical support specialist***
 - support for SKB Kontur users in terms of submission of regulated reporting;
@@ -35,10 +81,7 @@ Employment: project work, full time
 - receive and process customer phone calls;
 - accept and process customer requests received via e-mail and other text communication channels.
 
-### Disigion Studio Modesco
-
-Information technology, system integration, internet
-• Internet company (search engines, payment systems, social networks, information, educational and entertainment resources, website promotion, etc.)
+#### Disigion Studio Modesco
 
 ***SEO department specialist / Content manager***
 - work with semantic cores of sites;
@@ -46,7 +89,7 @@ Information technology, system integration, internet
 - posting articles on sites (WP, Joomla, Bitrix);
 - copywriting.
 
-### GBU VO "VRBS"
+#### GBU VO "VRBS"
 
 ***Researcher***
 - work with the website of the organization: creation, maintenance, updating, promotion;
@@ -55,3 +98,8 @@ Information technology, system integration, internet
 - work with Google Analytics, Yandex.Metrica;
 - search, collection and processing of information, articles, news for the site;
 - work with databases: creation, maintenance, updating.
+
+## Languages
+***
+- English (Intermediate)
+- Russian (Native)
