@@ -8,7 +8,7 @@ Employment: project work, full time
 ### Contact Info
 
 **Phone:** +7 (906) 4080411
-**E-mail:** kuprpoly@gmail.com
+**E-mail:** kuprpolushka@gmail.com
 **LinkedIn:** polina-kupr
 **GitHub:** polik22
 
